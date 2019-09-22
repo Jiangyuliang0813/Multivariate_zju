@@ -9,6 +9,6 @@ python CLT.PY
 ```
 其中参数可进行查看
 ```
-python C.py --help
+python CLT.py --help
 ```
 返回两个分布曲线（其中一条为标准正态曲线）的图片，图片以“分布_样本点个数_模拟次数”命名保存。
