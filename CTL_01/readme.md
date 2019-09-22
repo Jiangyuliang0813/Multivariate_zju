@@ -5,10 +5,10 @@
 ---
 通过下方命令行运行程序
 ```py
-python CTL.PY
+python CLT.PY
 ```
 其中参数可进行查看
 ```
-python CTL.py --help
+python C.py --help
 ```
 返回两个分布曲线（其中一条为标准正态曲线）的图片，图片以“分布_样本点个数_模拟次数”命名保存。
